@@ -3,5 +3,34 @@
     { "id": 1, "title": "Primeira postagem", "content": "Conteúdo 1" },
     { "id": 2, "title": "Segunda postagem", "content": "Conteúdo 2" },
     { "id": 3, "title": "Terceira postagem", "content": "Conteúdo 3" }
-  ]
+  ],
+
+  "launch": {
+    "name": "brands/69b8f24c-4beb-4f51-be23-b34b26c942de/agents/tribuzy_s_burgers_nvluzbzz_agent/launch", 
+    "rcsBusinessMessaging": {
+      "questionnaire": {
+        "contacts": [
+            {
+              "name": "Rafaela ", 
+              "title": "Head Implantação", 
+              "email": "message@yup.chat"
+            }
+          ], 
+          "optinDescription": "Ao utilizar o cardápio digital, você autoriza o recebimento de comunicações da empresa por mensagens, tendo a escolha de cancelar a qualquer momento.\n\nCNPJ: 49.250.543/0001-56", 
+          "triggerDescription": "As mensagens são enviadas em forma de campanhas sempre respeitando os horários permitidos para contato, \nporém o objetivo principal do agente é criar um novo canal de comunicação que os clientes possam entrar em contato conosco.", 
+          "interactionsDescription": "Mensagens de conteúdo rico dinâmicas usando os recursos de Marca do RCS para melhorar a confiabilidade do canal.", 
+          "optoutDescription": "Obrigado pela interação, você não irá mais receber mensagens deste agente.", 
+          "agentAccessInstructions": "https://demorcs.otima.digital/agent/tribuzy_s_burgers_nvluzbzz_agent", 
+          "videoUris": ["https://youtube.com/shorts/_3BTAnCByeU"]
+        }, 
+          "launchDetails": {
+            "/v1/regions/telefonica-brazil": {
+              "launchState": "LAUNCH_STATE_LAUNCHED", 
+              "updateTime": "2026-04-15T19:12:22.090533Z"
+              }
+            }
+    }
+  }  
+
+
 }
